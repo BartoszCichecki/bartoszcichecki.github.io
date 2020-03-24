@@ -6,7 +6,7 @@ url: "https://bartoszcichecki.github.io/"
 theme_settings:
   # Meta
   title: Bartosz's Blog
-  avatar: assets/img/avatar.png
+  avatar: 
   favicon: assets/favicon.ico
   gravatar: 9207e3a25509ad146900cf24009a3f0a # Email MD5 hash
   description: "My adventures as a developer" # used by search engines
